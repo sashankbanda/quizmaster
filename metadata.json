@@ -1,0 +1,5 @@
+{
+  "name": "QuizMaster AI",
+  "description": "A powerful quiz application that parses plain text quizzes, provides analytics, and offers AI-powered quiz generation.",
+  "requestFramePermissions": []
+}
